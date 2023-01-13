@@ -1,4 +1,4 @@
 ---
 redirect_title: Home
-redirect_url: https://litritt.com
+redirect_url: https://sidestore.io
 ---

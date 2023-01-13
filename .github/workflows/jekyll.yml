@@ -7,9 +7,7 @@
 name: Build and Deploy to Pages
 
 on:
-  # Runs on pushes and prs targeting the default branch
-  push:
-    branches: ["main"]
+  # Runs on prs targeting the default branch
   pull_request:
 
   # Allows you to run this workflow manually from the Actions tab
